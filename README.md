@@ -11,7 +11,7 @@ A web application built with ReactJS to showcase my skills, projects and educati
 - Responsive design optimized for different devices
 
 ## Hosted on
-- This portfolio app is hosted on http://mdikesh.com.np
+- This portfolio app is hosted on https://mdikesh.com.np
 
 ## How to Use
 - Clone or download the repository
@@ -23,4 +23,4 @@ A web application built with ReactJS to showcase my skills, projects and educati
 Feel free to fork the repository and make any contributions or improvements. All pull requests are welcome!
 
 ## Contact
-For any questions or issues, please reach out to me at [Email Address].
+For any questions or issues, please reach out to me at dcasemhrz@gmail.com.
